@@ -2,7 +2,7 @@
     "name": "vs-code-pack-for-vue",
     "displayName": "vs-code-pack-for-vue",
     "description": "VS Code pack for vue js",
-    "publisher": "my-vs-code-pack-for-vue",
+    "publisher": "andremco",
     "repository": {
         "type": "git",
         "url": "https://github.com/andremco/vs-code-pack-vue"
