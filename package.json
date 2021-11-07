@@ -18,6 +18,9 @@
     "extensionPack": [ 
         "xabikos.javascriptsnippets",
         "esbenp.prettier-vscode",
+        "coenraads.bracket-pair-colorizer",
+        "christian-kohler.npm-intellisense",
+        "sdras.vue-vscode-snippets",
         "publisher.extensionName"
     ]
 }
